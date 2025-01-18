@@ -1,0 +1,7 @@
+name: BlockNBTKeep
+version: '1.0-SNAPSHOT'
+main: org.tjdev.custom.blocknbtkeep.BlockNBTKeep
+api-version: '1.18'
+authors: [ TangJin ]
+description: Breaking a block drops the same item you used to place it.
+website: tjservice.org
