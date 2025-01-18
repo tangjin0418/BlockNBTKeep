@@ -1,5 +1,5 @@
 name: BlockNBTKeep
-version: '1.0-SNAPSHOT'
+version: '${project.version}'
 main: org.tjdev.custom.blocknbtkeep.BlockNBTKeep
 api-version: '1.18'
 authors: [ TangJin ]

@@ -6,7 +6,7 @@
 
     <groupId>org.tjdev.custom</groupId>
     <artifactId>blocknbtkeep</artifactId>
-    <version>7</version>
+    <version>9</version>
     <packaging>jar</packaging>
 
     <name>BlockNBTKeep</name>
